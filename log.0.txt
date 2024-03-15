@@ -1,0 +1,85 @@
+Jul/27/2023 07:00:38 hotspot,info,debug ->: BmvvFTVR (10.10.11.61): trying to log in by http-chap
+Jul/27/2023 07:00:40 hotspot,info,debug ->: BmvvFTVR (10.10.11.61): login failed: invalid username or password
+Jul/27/2023 07:02:15 hotspot,info,debug ->: BmvvFTVR (10.10.11.252): trying to log in by http-chap
+Jul/27/2023 07:02:17 hotspot,info,debug ->: BmvvFTVR (10.10.11.252): login failed: invalid username or password
+Jul/27/2023 07:02:39 hotspot,info,debug ->: BmvvFTVR (10.10.11.252): trying to log in by http-chap
+Jul/27/2023 07:02:41 hotspot,info,debug ->: BmvvFTVR (10.10.11.252): login failed: invalid username or password
+Jul/27/2023 07:05:14 hotspot,info,debug ->: GnSsAjgw (10.10.11.114): trying to log in by http-chap
+Jul/27/2023 07:05:14 hotspot,account,info,debug ->: GnSsAjgw (10.10.11.233): logged in
+Jul/27/2023 07:07:54 hotspot,info,debug ->: Bayu (10.10.11.223): logged out: keepalive timeout
+Jul/27/2023 07:07:56 hotspot,info,debug ->: RJSXCUKZ (10.10.11.84): trying to log in by http-chap
+Jul/27/2023 07:07:56 hotspot,account,info,debug ->: RJSXCUKZ (10.10.11.223): logged in
+Jul/27/2023 07:10:22 hotspot,info,debug ->: RJS4DM6R (10.10.11.10): trying to log in by cookie
+Jul/27/2023 07:10:22 hotspot,account,info,debug ->: RJS4DM6R (10.10.11.155): logged in
+Jul/27/2023 07:14:22 hotspot,info,debug ->: 085876537981 (10.10.11.41): logged out: keepalive timeout
+Jul/27/2023 07:15:04 hotspot,info,debug ->: GLE6CA4J (10.10.11.78): trying to log in by http-chap
+Jul/27/2023 07:15:04 hotspot,account,info,debug ->: GLE6CA4J (10.10.11.218): logged in
+Jul/27/2023 07:18:04 hotspot,info,debug ->: BMj3eFWh (10.10.11.244): trying to log in by http-chap
+Jul/27/2023 07:18:04 hotspot,account,info,debug ->: BMj3eFWh (10.10.11.216): logged in
+Jul/27/2023 07:18:40 hotspot,info,debug ->: 085876537981 (10.10.11.42): logged out: keepalive timeout
+Jul/27/2023 07:19:14 hotspot,info,debug ->: An3AWsx9 (10.10.11.192): trying to log in by http-chap
+Jul/27/2023 07:19:14 hotspot,account,info,debug ->: An3AWsx9 (10.10.11.83): logged in
+Jul/27/2023 07:19:38 hotspot,info,debug ->: 085876537981 (10.10.11.7): trying to log in by cookie
+Jul/27/2023 07:19:38 hotspot,account,info,debug ->: 085876537981 (10.10.11.42): logged in
+Jul/27/2023 07:20:41 hotspot,info,debug ->: sajaya (10.10.11.115): logged out: keepalive timeout
+Jul/27/2023 07:20:56 hotspot,info,debug ->: ranggareyga212979 (10.10.11.190): trying to log in by http-chap
+Jul/27/2023 07:20:56 hotspot,account,info,debug ->: ranggareyga212979 (10.10.11.75): logged in
+Jul/27/2023 07:23:18 hotspot,info,debug ->: sajaya (10.10.11.146): trying to log in by cookie
+Jul/27/2023 07:23:18 hotspot,account,info,debug ->: sajaya (10.10.11.149): logged in
+Jul/27/2023 07:33:48 hotspot,info,debug ->: kusdilbo (10.10.11.34): logged out: keepalive timeout
+Jul/27/2023 07:35:51 hotspot,info,debug ->: gNRaXBBM (10.10.11.209): logged out: keepalive timeout
+Jul/27/2023 07:38:28 hotspot,info,debug ->: CRYXCBMK (10.10.11.207): trying to log in by http-chap
+Jul/27/2023 07:38:28 hotspot,account,info,debug ->: CRYXCBMK (10.10.11.241): logged in
+Jul/27/2023 07:39:34 hotspot,info,debug ->: AnKK3xhR (10.10.11.64): trying to log in by cookie
+Jul/27/2023 07:39:34 hotspot,account,info,debug ->: AnKK3xhR (10.10.11.102): logged in
+Jul/27/2023 07:41:30 hotspot,info,debug ->: Shevia27 (10.10.11.253): logged out: keepalive timeout
+Jul/27/2023 07:42:59 hotspot,info,debug ->: BMZjke5N (10.10.11.141): logged out: keepalive timeout
+Jul/27/2023 07:45:22 hotspot,info,debug ->: rois (10.10.11.229): trying to log in by cookie
+Jul/27/2023 07:45:22 hotspot,account,info,debug ->: rois (10.10.11.253): logged in
+Jul/27/2023 07:53:28 hotspot,info,debug ->: attala (10.10.11.187): logged out: keepalive timeout
+Jul/27/2023 07:56:04 hotspot,info,debug ->: akbar (10.10.11.22): trying to log in by http-chap
+Jul/27/2023 07:56:04 hotspot,account,info,debug ->: akbar (10.10.11.15): logged in
+Jul/27/2023 07:57:57 hotspot,info,debug ->: rois (10.10.11.253): logged out: keepalive timeout
+Jul/27/2023 08:00:41 hotspot,info,debug ->: ranggareyga212979 (10.10.11.75): logged out: keepalive timeout
+Jul/27/2023 08:01:13 hotspot,info,debug ->: RJS4DM6R (10.10.11.155): logged out: keepalive timeout
+Jul/27/2023 08:01:15 hotspot,info,debug ->: GLE6CA4J (10.10.11.218): logged out: admin reset
+Jul/27/2023 08:01:15 hotspot,error,info,debug ->: GLE6CA4J (10.10.11.218): stop accounting: local user not found
+Jul/27/2023 08:03:58 hotspot,info,debug ->: Wds3cWEzU (10.10.11.12): trying to log in by cookie
+Jul/27/2023 08:03:58 hotspot,account,info,debug ->: Wds3cWEzU (10.10.11.41): logged in
+Jul/27/2023 08:07:44 hotspot,info,debug ->: kusdilbo (10.10.11.253): trying to log in by cookie
+Jul/27/2023 08:07:44 hotspot,account,info,debug ->: kusdilbo (10.10.11.99): logged in
+Jul/27/2023 08:08:01 hotspot,info,debug ->: Yoschi (10.10.11.44): trying to log in by cookie
+Jul/27/2023 08:08:01 hotspot,account,info,debug ->: Yoschi (10.10.11.252): logged in
+Jul/27/2023 08:08:33 hotspot,info,debug ->: WdsW4kUuG (10.10.11.132): trying to log in by http-chap
+Jul/27/2023 08:08:33 hotspot,account,info,debug ->: WdsW4kUuG (10.10.11.248): logged in
+Jul/27/2023 08:11:41 hotspot,info,debug ->: 085876537981 (10.10.11.37): trying to log in by cookie
+Jul/27/2023 08:11:41 hotspot,account,info,debug ->: 085876537981 (10.10.11.235): logged in
+Jul/27/2023 08:11:51 hotspot,info,debug ->: GnSsAjgw (10.10.11.233): logged out: keepalive timeout
+Jul/27/2023 08:12:42 hotspot,info,debug ->: Wds6aTHHC (10.10.11.234): logged out: keepalive timeout
+Jul/27/2023 08:12:44 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): trying to log in by cookie
+Jul/27/2023 08:12:44 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): login failed: invalid username or password
+Jul/27/2023 08:12:58 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): trying to log in by http-chap
+Jul/27/2023 08:13:00 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): login failed: invalid username or password
+Jul/27/2023 08:13:39 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): trying to log in by http-chap
+Jul/27/2023 08:13:41 hotspot,info,debug ->: BMJNn3Zc (10.10.11.81): login failed: invalid username or password
+Jul/27/2023 08:14:05 hotspot,info,debug ->: BMZjke5N (10.10.11.81): trying to log in by http-chap
+Jul/27/2023 08:14:05 hotspot,account,info,debug ->: BMZjke5N (10.10.11.234): logged in
+Jul/27/2023 08:15:09 hotspot,info,debug ->: GLEHJT76 (10.10.11.78): trying to log in by http-chap
+Jul/27/2023 08:15:11 hotspot,info,debug ->: GLEHJT76 (10.10.11.218): login failed: no more sessions are allowed for user
+Jul/27/2023 08:15:28 hotspot,info,debug ->: WdsW4kUuG (10.10.11.248): logged out: keepalive timeout
+Jul/27/2023 08:15:33 hotspot,info,debug ->: GLE6CA4J (10.10.11.78): trying to log in by http-chap
+Jul/27/2023 08:15:35 hotspot,info,debug ->: GLE6CA4J (10.10.11.78): login failed: invalid username or password
+Jul/27/2023 08:16:06 hotspot,info,debug ->: GLEHJT76 (10.10.11.78): trying to log in by http-chap
+Jul/27/2023 08:16:08 hotspot,info,debug ->: GLEHJT76 (10.10.11.218): login failed: no more sessions are allowed for user
+Jul/27/2023 08:16:50 hotspot,info,debug ->: GLEHJT76 (10.10.11.78): trying to log in by http-chap
+Jul/27/2023 08:16:52 hotspot,info,debug ->: GLEHJT76 (10.10.11.218): login failed: no more sessions are allowed for user
+Jul/27/2023 08:17:14 hotspot,info,debug ->: ranggareyga212979 (10.10.11.23): logged out: keepalive timeout
+Jul/27/2023 08:17:30 hotspot,info,debug ->: sajaya (10.10.11.97): trying to log in by http-chap
+Jul/27/2023 08:17:30 hotspot,account,info,debug ->: sajaya (10.10.11.93): logged in
+Jul/27/2023 08:17:42 hotspot,info,debug ->: GLEHJT76 (10.10.11.205): logged out: keepalive timeout
+Jul/27/2023 08:20:51 hotspot,info,debug ->: GLEHJT76 (10.10.11.105): trying to log in by http-chap
+Jul/27/2023 08:20:51 hotspot,account,info,debug ->: GLEHJT76 (10.10.11.205): logged in
+Jul/27/2023 08:23:30 hotspot,info,debug ->: prima (10.10.11.108): logged out: keepalive timeout
+Jul/27/2023 08:24:40 hotspot,info,debug ->: sajaya (10.10.11.93): logged out: keepalive timeout
+Jul/27/2023 08:28:02 hotspot,info,debug ->: GnSsAjgw (10.10.11.124): trying to log in by http-chap
+Jul/27/2023 08:28:02 hotspot,account,info,debug ->: GnSsAjgw (10.10.11.158): logged in
